@@ -1,3 +1,6 @@
+# Deployment Notes
+- once changes have been pushed to the repo it will take a couple of seconds for jsdelivr to sync the repo to their CDN
+
 # Why
 - to share files between projects such as bootstrap, datatables, tagify, and other libraries
 
