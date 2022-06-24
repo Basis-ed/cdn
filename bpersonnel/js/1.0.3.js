@@ -135,3 +135,9 @@ function getTodaysDate() {
     let mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
     let yyyy = today.getFullYear();
     return `${yyyy}-${mm}-${dd}` }
+
+
+function doSomething() {
+    let dict = {grades: 1, obj: [1, 2, 3]}
+    dict["grades"]
+}
